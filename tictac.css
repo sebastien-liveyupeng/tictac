@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+.toto {
+    color: rgb(239, 244, 248);
+    margin: 20px;
+   margin-top: 50px;
+   margin-left: 800px;
+   height: fit-content;
+}
